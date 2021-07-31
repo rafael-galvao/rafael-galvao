@@ -2,6 +2,8 @@
 
 My name is Rafael, and I'm a Software Engineer!
 
-* 🔭  I’m currently working on Talkdesk 🚀
-* 🌱  I’m currently learning Kotlin, Ruby, React, Elasticsearch and RabiitMQ 😅
-* 📪  You can contact me at my [LinkedIn](https://www.linkedin.com/in/rafael-galv%C3%A3o/)
+🔭 - I work at Talkdesk 🚀 \
+🌱 - I’m currently learning Ruby \
+👨🏻‍💻 - I've been working with Kotlin and React \
+📚 - I've worked in the past with PHP, Vue and Node.js \
+📪 - You can contact me at my [LinkedIn](https://www.linkedin.com/in/rafael-galv%C3%A3o/)
